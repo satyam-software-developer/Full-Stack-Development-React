@@ -1,0 +1,9 @@
+Problem statement
+Add the functionality of deleting the expenses from the firebase using the deleteDocs() method.
+
+When the delete button is clicked on an expense use the appropriate firebase method to delete the expense from the database.
+
+Note:
+This is a follow-up question to the previous expense tracker project use the same firebase configuration in the solution code.
+You only need to change the deleteExpense() function in the App component.
+Learn more about the deleteDoc using the link: Link
